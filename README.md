@@ -1,3 +1,3 @@
 # Testing-HTML-CSS
 
-Testing HTML and CSS.
+Experimenting HTML & CSS
